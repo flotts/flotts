@@ -1,0 +1,8 @@
+# dist files
+/dist/
+
+# npm build files
+/node_modules/
+
+# editor config files
+/.vscode/
