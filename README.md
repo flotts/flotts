@@ -1,3 +1,3 @@
-im a they/them cat/kitty
+im a they/them husky/puppy
 
 say hi on [telegram](https://t.me/flotts)
